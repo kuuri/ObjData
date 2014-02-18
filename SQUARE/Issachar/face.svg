@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="face.svg"
+   inkscape:export-filename="C:\Users\Lutyens\Desktop\ObjData\SQUARE\Issachar\face.png"
+   inkscape:export-xdpi="460.79999"
+   inkscape:export-ydpi="460.79999"
+   style="enable-background:new">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3802">
+      <stop
+         style="stop-color:#f0dfa9;stop-opacity:1;"
+         offset="0"
+         id="stop3804" />
+      <stop
+         id="stop3810"
+         offset="0.5"
+         style="stop-color:#f0dfa9;stop-opacity:1;" />
+      <stop
+         style="stop-color:#c89959;stop-opacity:1;"
+         offset="1"
+         id="stop3806" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3802"
+       id="radialGradient3808"
+       cx="64.521538"
+       cy="57.071014"
+       fx="64.521538"
+       fy="57.071014"
+       r="45.746216"
+       gradientTransform="matrix(1,0,0,1.1824105,0,-10.410351)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.59"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1679"
+     inkscape:window-height="1058"
+     inkscape:window-x="83"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36218)"
+     style="display:inline">
+    <rect
+       style="fill:#f0dfa9;fill-opacity:1;stroke:none"
+       id="rect3753"
+       width="100"
+       height="100"
+       x="0"
+       y="952.36218" />
+    <path
+       style="fill:none;stroke:#a0642d;stroke-width:0.15625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 44.53125,1013.2997 10.9375,0"
+       id="path3755"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#a0642d;fill-opacity:1;stroke:none"
+       d="m 49.825378,1004.9815 -0.698487,-1.7462 0.582072,-1.8626 0.582073,2.2118 z"
+       id="path3757"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="レイヤー"
+     style="display:inline"
+     transform="translate(0,-28)">
+    <path
+       style="fill:#c0b287;fill-opacity:1;stroke:none;display:inline"
+       d="m 0,28 0,100 100,0 0,-100 z m 35.15625,6.25 30.46875,0 14.461,14.344 5.297,5.387 3.056,11.716 L 80.434802,85.328829 77.104,89.526 l -3.33,3.266 -8.767,5.435 -12.026,4.03825 -2.981,0.2975 -2.981,-0.2975 L 34.993,98.227 26.226,92.792 22.896,89.526 18.983126,85.561658 11.561,65.697 14.617,53.981 19.914,48.594 z"
+       id="rect3753-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       inkscape:export-xdpi="460.79999"
+       inkscape:export-ydpi="460.79999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="レイヤー#1"
+     style="display:none" />
+</svg>

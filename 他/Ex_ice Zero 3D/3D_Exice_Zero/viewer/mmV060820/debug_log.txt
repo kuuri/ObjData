@@ -1,0 +1,2 @@
+OpenGL ver. 3.3.0
+command line _ "C:\Users\Lutyens\Desktop\ObjData\pmd\Ex_ice Zero 3D\3D_Exice_Zero\viewer\mmV060820\mmViewer.exe" 
